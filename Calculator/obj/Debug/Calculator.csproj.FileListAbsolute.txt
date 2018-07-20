@@ -1,0 +1,2 @@
+c:\users\an image of god\source\repos\Calculators\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+c:\users\an image of god\source\repos\Calculators\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
